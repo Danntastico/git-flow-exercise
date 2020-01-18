@@ -15,11 +15,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 [Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
 [Asparragus with Cranberries and pine nuts](../recipe/feb/asparagus-with-cranberries-and-pine-nuts.md)
 
-### [John Lemon](writer/john-lemon.md) 
-
-[Homemade Sausages](recipe/jan/homemade-sausages.md)
-[Candied Carrots](../recipe/feb/candied-carrots.md)
-
 ### [Madame Croque](writer/madame-croque.md) 
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
