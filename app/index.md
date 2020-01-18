@@ -2,7 +2,11 @@
 
 Welcome to _Flavor_, the only place on the planet where your taste buds won't be disappointed!
 
+## Last month Favorites
 
+[Chocolate Soup](recipe/jan/chocolate-soup.md)
+[Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
+[Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
 
 ## Picks of the Month
 
@@ -15,4 +19,4 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Madame Croque](writer/madame-croque.md) 
 
-[Roast Pork Sandwich](recipe/feb/roast-pork-sandwich.md)
+
