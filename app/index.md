@@ -18,5 +18,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 [Asparragus with Cranberries and pine nuts](../recipe/feb/asparagus-with-cranberries-and-pine-nuts.md)
 
 ### [Madame Croque](writer/madame-croque.md) 
+[Roast Pork Sandwich](../recipe/feb/roast-pork-sandwich.md)
 
 
